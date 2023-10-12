@@ -1,0 +1,98 @@
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"달린다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"도망간다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"무언가를 들어올린다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"때린다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"설득한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"유혹한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"애원한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"기습한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"자물쇠를 딴다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"춤을 춘다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"수학 문제를 푼다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"배드민턴을 치다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"풍선 조각을 한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"오션 다이빙을 한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"요리를 한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"피아노 연주를 한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"계단을 오른다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"책을 읽는다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"물건을 든다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"퍼즐을 푼다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"암호를 해독한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"주변을 탐색한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"발로 찬다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"계산한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"사격한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"회피한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"공격을 막는다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"반격한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"프로그램을 만든다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"프로그램을 만드는 프로그램을 만든다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"돈을 버는 전략을 세운다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"협박한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"협박한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"도약한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"뛰어오른다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"날아간다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"점프한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"도약해서 공격한다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"부순다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"잠긴 상자를 강제로 연다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"잠긴 상자를 딴다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"잠긴 상자를 열어달라고 애원한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"연주한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"엿본다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"째려본다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"체력단련한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"수소문한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"깎아달라고 애원한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"협상한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"도와준다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"주시한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"기다린다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"올라간다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"무언가를 만든다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"주식 거래를 한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"수리한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"구조한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"진압한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"대화한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"뿌리친다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"이동한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"위협한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"위협한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"파악한다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"끌어올린다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"찾는다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"판단한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"추천한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"증명하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"가르치다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"분석하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"개발하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"개조하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"최적화하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"한계 돌파하다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"점진적 과부하를 주다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"다치게 하다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"죽이다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"무빙치다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"암기하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"이해하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"흔들다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"물다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"할퀴다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"박치기한다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"점검하다"},{"role":"assistant","content":"지능"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"먹다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"비틀다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"뽑다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"당긴다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"던지다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"던진다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"찌른다"},{"role":"assistant","content":"민첩"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"찌른다"},{"role":"assistant","content":"힘"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"지휘한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"전달한다"},{"role":"assistant","content":"없음"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"통제한다"},{"role":"assistant","content":"매력"}]}
+{"messages":[{"role":"system","content":"당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."},{"role":"user","content":"방어한다"},{"role":"assistant","content":"힘"}]}

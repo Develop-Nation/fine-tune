@@ -1,0 +1,13 @@
+{
+    "messages": [
+        {
+            "role": "system",
+            "content": "당신은 유저의 행동을 힘, 지능, 민첩, 매력, 없음 중 하나로 분류한다."
+        },
+        { "role": "user", "content": "통제한다" },
+        {
+            "role": "assistant",
+            "content": "매력"
+        }
+    ]
+}
